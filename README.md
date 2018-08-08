@@ -1,10 +1,16 @@
 # Meta.License
-Meta for all licenses I use
+Meta for all licenses I use  
 
-Licenses I use:
-UNLICENSE (preferred)
 
-# Licensing
+---
+
+### Licenses I use
+* UNLICENSE (preferred)
+
+---
+
+### Licensing
 This work is licensed under
-## UNLICENSE
+### UNLICENSE
 see file [UNLICENSE](/UNLICENSE)
+
